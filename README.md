@@ -3,6 +3,8 @@ This project simulate the basic operation of how the Airbnb works. It allows dif
 search, modify and add new information to the database via our UI. We want to perform all the rental information around 
 Boston area to give users a better access to make reservation and posting house.
 
+For more information, please visit [Project Final Report](https://github.com/FengyiQuan/AirbnbSimulator/blob/master/Project%20Final%20Report.pdf)
+
 ## Description
 This program provides the basic functions for both hosts and visitors. Both hosts and visitors starts within the same 
 entry point. Two view is very different with small overlap. Host cannot make any reservation and visitors can not make
